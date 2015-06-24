@@ -31,6 +31,8 @@ Each week one of us can pick a topic (not limited to this list) and run us throu
 * Massive list of well documented Python/R code snippets. Jupyter notebooks available on GitHub repo:
   * http://chrisalbon.com/
   * https://github.com/chrisalbon/code_py
+* Why you should almost never use "is" in Python - Lerner Consulting Blog
+  * http://blog.lerner.co.il/why-you-should-almost-never-use-is-in-python/
 
 ### REST and RESTful APIs
 
@@ -77,8 +79,7 @@ Each week one of us can pick a topic (not limited to this list) and run us throu
 
 ### Pandas
 
-> This one is obvious, if somehow you're abe to use pandas as the extension of your mind, you're in a good spot. So
-  let's work our way there! This would most likely be a recuring topic.
+> This one is obvious, if somehow you're abe to use pandas as the extension of your mind, you're in a good spot. So let's work our way there! This would most likely be a recuring topic.
   
 * Practical tips, lots of pandas
   * http://pbpython.com/excel-pandas-comp.html
@@ -100,10 +101,18 @@ Each week one of us can pick a topic (not limited to this list) and run us throu
 
 ### Anaconda/Conda
 
-> Anaconda and Conda are getting more and more established as the hassle-free way to install Python these days. But
-  why is that, what does it do better than other methods. And how can I create my own Conda package?
+> Anaconda and Conda are getting more and more established as the hassle-free way to install Python these days. But why is that, what does it do better than other methods. And how can I create my own Conda package?
 
 * Conda: A Cross Platform Package Manager for any Binary Distribution | SciPy 2014 | Aaron Meurer
   * https://www.youtube.com/watch?v=UaIvrDWrIWM
 * How to use conda to package dependencies for reproducible research
   * http://continuum.io/blog/conda-data-science
+
+### Kaggle / Otto challenge
+
+> The Otto challenge deadline is past, and workflows for it have been released. Let's have a look and learn from
+  the best!
+
+* Don’t Miss These Scripts: Otto Group Product Classification | no free hunch
+  * http://blog.kaggle.com/2015/06/15/dont-miss-these-scripts-otto-group-product-classification/
+
