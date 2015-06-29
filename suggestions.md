@@ -17,6 +17,8 @@ Each week one of us can pick a topic (not limited to this list) and run us throu
   * http://www.nextflow.io/blog/2014/using-docker-in-hpc-cluster.html
 * Latest Docker plugins + demo
   * http://plugins-demo-2015.github.io/
+* Slides from DockerCon 2015
+  * http://www.slideshare.net/Docker/
 
 ### How I work?
 
