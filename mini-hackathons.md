@@ -2,6 +2,11 @@
 
 > Collection of datasets/problems we could tackle as a group during our ml-bourne meetups
 
+### UC Irvine - School of Information & Computer Science's Machine Learning repository
+
+Large collection of ML ready datasets, including the classics:
+* http://archive.ics.uci.edu/ml/index.html
+
 ### Scienc-y
 
 Detecting retinopathy from eye images:
