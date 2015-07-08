@@ -2,6 +2,9 @@
 
 > Collection of datasets/problems we could tackle as a group during our ml-bourne meetups
 
+### Australian open data collections
+* http://ands.org.au/partner/open2015posters/index.html?utm_term=0_22b849a4ee-98d1fe5fe1-1323229&ct=t(andsUP_7_July_2015)&utm_content=buffer46167&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
 ### UC Irvine - School of Information & Computer Science's Machine Learning repository
 
 Large collection of ML ready datasets, including the classics:
