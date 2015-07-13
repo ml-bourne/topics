@@ -1,5 +1,6 @@
-Here is a repository of hackathon events/data challenges to keep an eye on.
-I will write a description for each entry later on.
+Here is a repository of future/past hackathon events/data challenges to keep an eye on.
+
+> I will write a description for each entry later on.
 
 * https://www.kaggle.com/
 * http://www.rhokaustralia.org/#what-is
@@ -8,3 +9,4 @@ I will write a description for each entry later on.
 * http://www.govhack.org/
 * http://www.codeforaustralia.org/
 * http://healthxl.org/
+* http://www.hisa.org.au/hic/hackinghealth/
